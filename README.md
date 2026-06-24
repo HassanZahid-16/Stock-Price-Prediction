@@ -64,7 +64,4 @@ Target:
 * Stock_Price_Prediction.ipynb
 * README.md
 
-## Author
 
-Muhammad Hassan Zahid
-AI/ML Internship Project
